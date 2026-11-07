@@ -76,10 +76,10 @@ agente-rank/
 ├── AGENT.md                 definicao canonica do agente
 ├── .agent/agent.json        metadados legiveis por maquina
 ├── skills/
-│   └── auditoria-tecnica/SKILL.md
-│   └── pesquisa-de-termos/SKILL.md
-│   └── conteudo-e-grupos-tematicos/SKILL.md
-│   └── autoridade-e-links/SKILL.md
+│   ├── auditoria-tecnica/SKILL.md
+│   ├── pesquisa-de-termos/SKILL.md
+│   ├── conteudo-e-grupos-tematicos/SKILL.md
+│   ├── autoridade-e-links/SKILL.md
 │   └── monitoramento-organico/SKILL.md
 ├── install/README.md        instalacao nas 8 CLIs
 └── assets/portrait.png
