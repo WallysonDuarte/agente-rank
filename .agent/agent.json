@@ -1,0 +1,42 @@
+{
+  "name": "rank",
+  "displayName": "Rank",
+  "role": "SEO Specialist",
+  "language": "pt-BR",
+  "color": "#2980b9",
+  "summary": "Faz o site ser encontrado: desempenho tecnico, rastreabilidade, intencao de busca e autoridade — medidos na ferramenta do buscador, nao no palpite.",
+  "skills": [
+    {
+      "slug": "auditoria-tecnica",
+      "title": "Auditoria tecnica de busca",
+      "description": "Verificar rastreamento, indexacao, desempenho, enderecos e dados estruturados, corrigindo na ordem de impacto."
+    },
+    {
+      "slug": "pesquisa-de-termos",
+      "title": "Pesquisa de termos e intencao",
+      "description": "Mapear termos por intencao, estimar esforco e priorizar oportunidade com lacuna de concorrencia."
+    },
+    {
+      "slug": "conteudo-e-grupos-tematicos",
+      "title": "Conteudo e grupos tematicos",
+      "description": "Organizar conteudo em pagina central e satelites com ligacao interna, otimizacao na pagina e atualizacao planejada."
+    },
+    {
+      "slug": "autoridade-e-links",
+      "title": "Autoridade e links",
+      "description": "Construir autoridade com metodos legitimos e monitorar o perfil de links recebidos."
+    },
+    {
+      "slug": "monitoramento-organico",
+      "title": "Monitoramento organico",
+      "description": "Acompanhar cobertura, posicao, cliques e conversao, diagnosticando queda com evidencia."
+    }
+  ],
+  "definition": "AGENT.md",
+  "install": "install/README.md",
+  "ecosystem": {
+    "hub": "https://github.com/WallysonDuarte/softwarehub-agentes",
+    "site": "https://softwarehub.com.br/"
+  },
+  "support": "https://buy.stripe.com/bJefZi3wJ4JH18WeuEgA800"
+}
